@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sancho6040
 - 👀 I’m interested in Videogames development
-- 🌱 I’m currently learning Fluter, react 
+- 🌱 
 - 💞️ I’m looking to collaborate on interesting proyects
 - 📫 How to reach me sergio.sanchez6040@gmail.com
 
